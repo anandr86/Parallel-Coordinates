@@ -1,0 +1,5 @@
+Parallel Coordinates visualizer application can be used to visualize high dimensional points. It is used in data analysis and mining applications to recognize patterns and understand that data points better and their co-relation.
+
+This application was designed to handle large data sets and uses Qt for the GUI. The application currently features
+* Layout adjustments and
+* Repositionable axis
